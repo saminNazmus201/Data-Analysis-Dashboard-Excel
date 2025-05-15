@@ -23,5 +23,8 @@
 
 #Drescription: Financial performance dashboard tracking customer service, agent efficiency, and monthly trends.
 
-![download](https://github.com/user-attachments/assets/05148fd4-e470-4119-b5f4-5533dac4055d)
+
+<img width="222" alt="synaptica" src="https://github.com/user-attachments/assets/1163f9d4-f8af-4dd9-ade0-a2be14e4b149" />
+
+#Drescription: Synaptica AI overall report so far. How are they continue their meeting and overall progess. 
 
